@@ -4,7 +4,7 @@ repo_name: Github
 nav:
     - Inicio: 'index.md'
     - Instalación: './instalacion.md'
-    # - Rafael Romera: './rafa_romera/index.md'
+     - Gestión de Usuarios: './usuarios.md'
     # - Kubernetes: './kubernetes/index.md'
 theme:
     name: mkdocs
