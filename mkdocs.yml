@@ -19,8 +19,8 @@ theme:
       - navigation.tabs.sections
     palette: 
       - scheme: default
-        primary: red
-        accent: red
+        primary: blue
+        accent: blue
         toggle:
           icon: material/weather-sunny 
           name: Cambiar al modo oscuro
