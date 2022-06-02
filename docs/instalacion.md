@@ -10,7 +10,7 @@ Dicha aplicación esta creada con symfony por lo que necesita tener el hosting a
 
 Una vez se clone la aplicacion necesitas realizar algunas configuraciones iniciales, lo primero es en el archivo **.env** cambiar el modo de entorno al que desees si va a estar en produccion o en modo desarrollo, en ese mismo archivo tendras que establecer tus propias claves de paypal, tambien establecer el tipo de conexion de base de datos que tendrás.
 
-!["archivo de entorno"](../assets/img/archivo_entorno.png)
+!["archivo de entorno"](./assets/img/archivo_entorno.png)
 
 ## Configuracion inicial
 
@@ -44,7 +44,7 @@ granaweb@hosting-granaweb:/var/www/GranaWeb$ php bin/console doctrine:migration:
 
 Este comando lo que hace es crear todos las tablas vacias de nuestra aplicación, de momento no hay ni usuario, ni productos, es decir, esta todo vacio, para poder crear el usuario administrador podemos modificar el archivo **"UserFixtures.php"** que se encuentra en **"src/DataFixtures"**, estableciendo los valores de nuestro usuario administrador:
 
-!["usuario administrador"](../assets/img/admin_user.png)
+!["usuario administrador"](./assets/img/admin_user.png)
 
 Los campos que estan en amarillo son los que se pueden cambiar para modificar el usuario administrador con nuestras credenciales.
 
