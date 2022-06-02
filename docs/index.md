@@ -1,0 +1,1 @@
+# Bienvenido al manual de usuario de la aplicación GranaWeb
