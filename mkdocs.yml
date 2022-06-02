@@ -1,4 +1,4 @@
-site_name: Documentación
+site_name: Manual de Usuario
 repo_url: https://github.com/adrianb30/GranaWeb
 repo_name: Github
 nav:
@@ -10,7 +10,7 @@ theme:
     name: mkdocs
     lenguage: es
     locale: es
-    include_sidebar: false
+    include_sidebar: true
     features:
       - navigation.instant
       - navigation.tracking
@@ -19,8 +19,8 @@ theme:
       - navigation.tabs.sections
     palette: 
       - scheme: default
-        primary: blue
-        accent: blue
+        primary: purple
+        accent: purple
         toggle:
           icon: material/weather-sunny 
           name: Cambiar al modo oscuro
