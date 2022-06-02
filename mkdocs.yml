@@ -3,7 +3,7 @@ repo_url: https://github.com/adrianb30/GranaWeb
 repo_name: Github
 nav:
     - Inicio: 'index.md'
-    # - Adrian Barranco: './adrian_barranco/index.md'
+    - Instalación: './instalacion.md'
     # - Rafael Romera: './rafa_romera/index.md'
     # - Kubernetes: './kubernetes/index.md'
 theme:
