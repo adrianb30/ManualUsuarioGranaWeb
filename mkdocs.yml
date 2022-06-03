@@ -5,7 +5,7 @@ nav:
     - Inicio: 'index.md'
     - Instalación: './instalacion.md'
     - Gestión de Usuarios: './usuarios.md'
-    # - Kubernetes: './kubernetes/index.md'
+    - Gestion de almacén: './productos.md'
 theme:
     name: mkdocs
     lenguage: es

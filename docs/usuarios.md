@@ -27,6 +27,7 @@ Si le damos al boton de ver se nos abrira una vista con todos los datos del usua
 !["backoffice usuarios"](./assets/img/backoffice_vistaClientes.png)
 
 Desde esta vista podemos ver tres botones:
+
 - volver: nos devuelve a la vista anterior donde se listan todos los usuarios
 - editar: nos llevara a otra vista en la que nos saldrá un formulario para modificar datos del usuario, es la misma vista que en el boton del listado de clientes.
 - Eliminar: nos eliminara el usuario que estamos visualizando.
@@ -36,6 +37,7 @@ Si le damos al boton de editar nos llevará a la vista en la que tenemos un form
 !["backoffice modificar cliente"](./assets/img/backoffice_modificarCliente.png)
 
 En esta vista se podrán modificar todos lo valores del formulario anterior, tambien nos aparecen tres botones:
+
 - Guardar Cambios: Se guardarán todos los datos que se hayan modificado.
 - Volver: volverá a la vista donde se listan todos los usuarios. 
 - Elimiar: Eliminara dicho usuario.
