@@ -8,7 +8,10 @@ Para gestionar productos se realiza desde el backoffice en el apartado del menu 
 
 Para crear una categoria tienes que ir al backoffice y seleccionar el apartado **Almacén** y dentro de él, **Categoria**, como podemos apreciar en la siguiente imagen:
 
-![Imagen categorias](./assets/img/categorias.png)
+[![imagen_categorias]](./assets/img/categorias.png)
+
+[imagen_categorias]: ./assets/img/categorias.png
+
 
 Para crear una categoria simplementen le damos a **Crear nueva** y nos llevara a un formulario donde deberemos introducir todos los datos para crear una categoria nueva.
 
