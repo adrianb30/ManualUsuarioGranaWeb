@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Instalación de la aplicación
 
 ## Prerequisitos
