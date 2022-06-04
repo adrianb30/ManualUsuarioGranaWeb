@@ -5,10 +5,10 @@ nav:
     - Inicio: 'index.md'
     - Instalación: './instalacion.md'
     - Guia de Administración:
-      - Gestión de Usuarios: './usuarios.md'
-      - Gestion de almacén: './productos.md'
+        - Gestión de Usuarios: './usuarios.md'
+        - Gestion de almacén: './productos.md'
     - Guia de usuario:
-      - Creación de una cuenta: './useraccount.md'
+        - Creación de una cuenta: './useraccount.md'
 theme:
     name: mkdocs
     lenguage: es
