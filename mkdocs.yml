@@ -3,6 +3,7 @@ site_description: 'Manual de usuario de la aplicación web GranaWeb'
 repo_url: https://github.com/adrianb30/GranaWeb
 repo_name: Github
 site_author: 'Adrián Barranco Gómez'
+copyright: "Todos los derechos reservados a GranaWeb"
 nav:
     - Inicio: 'index.md'
     - Instalación: './instalacion.md'
@@ -16,7 +17,7 @@ theme:
     # collapse_by_default: false
     # lenguage: es
     # locale: es
-    include_sidebar: true
+    include_sidebar: false
     features:
       - navigation.instant
       - navigation.tracking
