@@ -23,11 +23,11 @@ theme:
       - navigation.tracking
       - navigation.sections
       - navigation.expand
+      - toc.follow
       - toc.integrate
       - navigation.top
       - navigation.tabs
       - navigation.tabs.sticky
-      - navigation.tabs.sections
     # palette:
     #   - scheme: default
     #     primary: "#4051b5"
