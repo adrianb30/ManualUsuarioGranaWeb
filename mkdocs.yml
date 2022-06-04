@@ -28,19 +28,19 @@ theme:
       - navigation.top
       - navigation.tabs
       - navigation.tabs.sticky
-    # palette:
-    #   - scheme: default
-    #     primary: "#4051b5"
-    #     accent: "#4051b5"
-    #     toggle:
-    #       icon: material/weather-sunny
-    #       name: Cambiar al modo oscuro
-    #   - scheme: slate
-    #     toggle:
-    #       icon: material/weather-night
-    #       name: Cambiar al modo claro
-    # font:
-    #   code: Source Code Pro
+    palette:
+      - scheme: default
+        primary: "#4051b5"
+        accent: "#4051b5"
+        toggle:
+          icon: material/weather-sunny
+          name: Cambiar al modo oscuro
+      - scheme: slate
+        toggle:
+          icon: material/weather-night
+          name: Cambiar al modo claro
+    font:
+      code: Source Code Pro
 markdown_extensions:
     - toc:
         permalink: True
