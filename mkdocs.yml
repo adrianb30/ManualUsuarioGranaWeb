@@ -1,6 +1,8 @@
 site_name: Manual de Usuario
+site_description: 'Manual de usuario de la aplicación web GranaWeb'
 repo_url: https://github.com/adrianb30/GranaWeb
 repo_name: Github
+site_author: 'Adrián Barranco Gómez'
 nav:
     - Inicio: 'index.md'
     - Instalación: './instalacion.md'
@@ -10,7 +12,8 @@ nav:
     - Guia de usuario:
         - Creación de una cuenta: './useraccount.md'
 theme:
-    name: mkdocs
+    name: rtd-dropdown
+    collapse_by_default: false
     lenguage: es
     locale: es
     include_sidebar: true
