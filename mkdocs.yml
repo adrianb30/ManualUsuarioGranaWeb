@@ -11,12 +11,12 @@ nav:
         - Gestion de almacén: './productos.md'
     - Guia de usuario:
         - Creación de una cuenta: './useraccount.md'
-theme: readthedocs
-    # name: mkdocs
+theme: 
+    name: readthedocs
     # collapse_by_default: false
     # lenguage: es
     # locale: es
-    # include_sidebar: true
+    include_sidebar: true
     # features:
     #   - navigation.instant
     #   - navigation.tracking
