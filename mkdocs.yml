@@ -12,7 +12,7 @@ nav:
     - Guia de usuario:
         - Creación de una cuenta: './useraccount.md'
 theme:
-    name: rtd-dropdown
+    name: mkdocs
     collapse_by_default: false
     lenguage: es
     locale: es
