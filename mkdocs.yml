@@ -41,3 +41,8 @@ theme:
     #       name: Cambiar al modo claro
     # font:
     #   code: Source Code Pro
+markdown_extensions:
+    - toc:
+        permalink: True
+        separator: "_"
+
